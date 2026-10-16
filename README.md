@@ -2,6 +2,16 @@
 
 Веб-интерфейс для отправки и получения текстовых сообщений через GREEN-API.
 
+[## 📽️ Видеопрезентация](preview/preview.mp4)
+
+## 📸 Скриншоты
+
+<p align="center">
+  <img src="preview/login.jpg" alt="Страница входа" width="48%">
+  <img src="preview/initial.jpg" alt="Главная страница" width="48%">
+  <img src="preview/dialog.jpg" alt="Создание диалога" width="48%">
+</p>
+
 ## Запуск локально
 
 1. Клонировать репозиторий:
